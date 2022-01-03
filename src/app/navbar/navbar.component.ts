@@ -8,7 +8,7 @@ import { Component, OnInit } from '@angular/core';
 export class NavbarComponent implements OnInit {
 
   rightmenu = ['Shop', 'Subscribe', 'Profile'];
-  leftmenu = ['Home','Products','Guide','Publish','About','Contact']
+  // leftmenu = ['Home','Products','Guide','Publish','About','Contact']
 
   constructor() { }
 
